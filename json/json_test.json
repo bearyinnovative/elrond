@@ -1,0 +1,24 @@
+[
+  {
+    "id": "foo",
+    "contents": [
+      {
+        "language": "Zh-CN",
+        "text": "foo"
+      }
+    ]
+  },
+  {
+    "id": "bar",
+    "contents": [
+      {
+        "language": "Zh-CN",
+        "text": "foo"
+      },
+      {
+        "language": "En-US",
+        "text": "bar"
+      }
+    ]
+  }
+]

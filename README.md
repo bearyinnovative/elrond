@@ -8,6 +8,7 @@ QuickStart
 
 ```go
 import "github.com/bearyinnovative/elrond"
+import "github.com/bearyinnovative/elrond/json"
 
 func Translation() {
 	t := elrond.T(

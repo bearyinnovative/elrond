@@ -1,11 +1,9 @@
 language: go
 
 go:
-    - tip
-    - 1.10
-    - 1.9
-    - 1.8
-    - 1.7
+    - "1.10"
+    - "1.9"
+    - "1.8"
 
 notifications:
   webhooks: https://hook.bearychat.com/=bw52O/travis/c1407f5e13acdd3dfbd97c2fef2ca57e

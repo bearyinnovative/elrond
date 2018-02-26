@@ -3,6 +3,11 @@ Elrond
 
 i18n translation library
 
+[![Build Status](https://travis-ci.org/bearyinnovative/elrond.svg)](https://travis-ci.org/bearyinnovative/elrond)
+[![GoDoc](https://godoc.org/github.com/bearyinnovative/elrond?status.svg)](https://godoc.org/github.com/bearyinnovative/elrond)
+[![GoReport](https://goreportcard.com/badge/github.com/bearyinnovative/elrond)](https://goreportcard.com/report/github.com/bearyinnovative/elrond)
+![Development Status](https://img.shields.io/badge/status-0.0.0-brightgreen.svg?style=flat-square)
+
 QuickStart
 ----
 
@@ -54,6 +59,6 @@ func FromJSON() {
 }
 ```
 
-License
+LICENSE
 ----
 MIT
